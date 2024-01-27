@@ -1,3 +1,15 @@
-body {
-    background-color: aquamarine;
+  .bg-dark {
+    background-image: linear-gradient(to right, rgba(51,98,187), rgba(33,11,77));
+  }
+
+.form-input {
+    padding-right: 4lh
 }
+
+  .search-button {
+    background-color: #5098E6;
+    color: white;
+    margin-top: 10px;
+    padding-right: 9.3lh
+    
+  }
