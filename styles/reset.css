@@ -1,15 +1,32 @@
-  .bg-dark {
+.bg-dark {
     background-image: linear-gradient(to right, rgba(51,98,187), rgba(33,11,77));
-  }
+}
 
 .form-input {
     padding-right: 4lh
 }
 
-  .search-button {
+.search-button {
     background-color: #5098E6;
     color: white;
     margin-top: 10px;
-    padding-right: 9.3lh
-    
-  }
+    padding-right: 9.3lh    
+}
+
+#today {
+    border: 1px solid #ccc;
+}
+
+#city {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+#city, #temperature, #windSpeed, #humidity {
+    padding:5px;
+}
+
+#forecastText {
+    font-size: 20px;
+    font-weight: 500;
+}
