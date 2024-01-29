@@ -5,7 +5,7 @@
 
 The aim of this project is to create a website that can display s city's weather for the current day and forecast the city's weather for the next 5 days. Searches are saved to buttons which can be clicked on to pull weather for that particular city back up. Data is saved to local storage so that buttons appear each time the website is loaded.
 
-The website can be viewed [here](file:///C:/Users/Andrew/bootcamp/Challenges/week-8/Weather-Dashboard/index.html?)
+The website can be viewed [here](https://duouk2000.github.io/Weather-Dashboard/)
 
 ## Installation
 
